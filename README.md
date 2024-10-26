@@ -1,4 +1,4 @@
-# Customer Retention Prediction Model
+# Sales Forcasting
 
 The aim of this project is to generate possible sales data of future based on past data.
 
